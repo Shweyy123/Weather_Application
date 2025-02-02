@@ -1,16 +1,16 @@
-﻿# Weather_Application
+﻿# Weather Application
  
 This is a weather application built with Django. It fetches weather data from a third-party weather API and displays it to the user.
 
-Prerequisites
+﻿# Prerequisites
 
 Before running the project, ensure you have the following installed on your machine:
 
-Python (version 3.x or higher)
+1) Python (version 3.x or higher)
 
-Django (version 4.x or higher)
+2) Django (version 4.x or higher)
 
-pip (Python's package installer)
+3) pip (Python's package installer)
 
 How to run this project?
 
