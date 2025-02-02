@@ -12,7 +12,7 @@ Before running the project, ensure you have the following installed on your mach
 
 3) pip (Python's package installer)
 
-How to run this project?
+## **How to run this project?**
 
 1. Clone the repository
    
